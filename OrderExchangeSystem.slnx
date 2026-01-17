@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OrderExecutionWorker/OrderExecutionWorker.csproj" />
+  <Project Path="OrderFixGatewayWorker/OrderFixGatewayWorker.csproj" />
+</Solution>
