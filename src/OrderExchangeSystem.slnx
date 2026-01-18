@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="OrderApi/OrderApi.csproj" Id="16c31072-fc66-4dd8-8479-e37bbc2b861e" />
   <Project Path="OrderExecutionWorker/OrderExecutionWorker.csproj" />
   <Project Path="OrderFixGatewayWorker/OrderFixGatewayWorker.csproj" />
 </Solution>

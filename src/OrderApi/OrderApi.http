@@ -1,0 +1,15 @@
+@OrderApi_HostAddress = http://localhost:5223
+
+POST {{OrderApi_HostAddress}}/orders
+Content-Type: application/json
+
+{
+  "account": "ACC1",
+  "orderId": "ORD-1",
+  "symbol": "PETR4",
+  "side": "buy",
+  "quantity": 10,
+  "type": "limit",
+  "price": 32.5
+}
+###
